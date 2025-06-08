@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jaber-Valinejad/agentic_ai_hotelbot/blob/master/img/z13b.png" width="600"/>
+  <img src="https://github.com/Jaber-Valinejad/agentic_ai_hotelbot/blob/main/img/z13b.png" width="600"/>
 </p>
 
 ---
