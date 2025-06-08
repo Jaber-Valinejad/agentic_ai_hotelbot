@@ -4,7 +4,7 @@
 
 ---
 
-# Agentic AI hotelbot
+# Agentic AI HotelBot
 
 A multi-agent virtual concierge application powered by LangGraph, OpenAI, Redis, PostgreSQL, and FastAPI — designed for hotel information retrieval, reservation assistance, and intelligent query handling.
 
