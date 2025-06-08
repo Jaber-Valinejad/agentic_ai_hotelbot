@@ -1,14 +1,10 @@
-# Agentic AI hotelbot
-AI-powered virtual concierge for luxury hotels using GPT, LangGraph agents, LlamaIndex, FastAPI, Redis, and Neon PostgreSQL. Supports room booking, FAQ search, and real-time availability. Deployed via Docker on Hugging Face and AWS ECS.
-
----
 <p align="center">
   <img src="https://github.com/Jaber-Valinejad/agentic_ai_hotelbot/blob/master/assets/system_architecture.png" width="600"/>
 </p>
 
 ---
 
-# Blue Horizon Project: Agentic AI Concierge System
+# Agentic AI hotelbot
 
 A multi-agent virtual concierge application powered by LangGraph, OpenAI, Redis, PostgreSQL, and FastAPI — designed for hotel information retrieval, reservation assistance, and intelligent query handling.
 
